@@ -1,0 +1,46 @@
+body{
+	background-image:url("pexels-pixabay-414102.jpg");
+	background-attachment:fixed;
+	background-image:center;
+}
+.divi{
+	height:300px;
+	display:flex;
+    column-gap:5px;
+	flex-wrap:wrap;
+	row-gap:5px;
+	align-items:center;
+	justify-content:space-evenly;
+	
+}
+.box1{
+	height:200px;
+	width:200px;
+	background-image:url("pexels-james-wheeler-417074.jpg");
+	background-size:cover;
+	
+}	
+.box2{
+	height:200px;
+	width:200px;
+	background-image:url("pexels-anthony-)-132474.jpg");
+	background-size:cover;
+}
+.box3{
+	height:200px;
+	width:200px;
+	background-image:url("pexels-creativebin-135940.jpg");
+	background-size:cover;
+}
+.box4{
+	height:200px;
+	width:200px;
+	background-image:url("pexels-dreamlens-production-930676.jpg");
+	background-size:cover;
+}
+.tuhin{
+    margin-top:0px;
+	width:250px;
+	height:200px;
+}
+
